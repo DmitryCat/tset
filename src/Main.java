@@ -7,8 +7,8 @@ public class Main {
         float ad = denis+denis*0.1f;
         float ak = kristina+kristina*0.1f;
         float bm = am*12-masha*2;
-        float bd = ad*12-denis*12;
-        float bk = ak*12-kristina*12;
+        float bd = ad*12-denis*2;
+        float bk = ak*12-kristina*2;
         System.out.println("Маша теперь получает " + am + " рублей. Годовой доход вырос на "+ bm + " рублей");
         System.out.println("Денис теперь получает " + ad + " рублей. Годовой доход вырос на "+ bd + " рублей");
         System.out.println("Кристина теперь получает " + ak + " рублей. Годовой доход вырос на "+ bk + " рублей");
